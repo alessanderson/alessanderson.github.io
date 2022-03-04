@@ -1,1 +1,1 @@
-trocando o texto 
+teste usando um script
