@@ -1,5 +1,5 @@
-# Your wiki name
+# Wiki
 
 [Home](index.md)
-[About](about.md)
-[Download](download.md)
+[StackEdit](https://stackedit.io/app)
+[IRPF](irpf.md)
